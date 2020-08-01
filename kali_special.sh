@@ -22,3 +22,4 @@ cd hashcat
 make
 make install
 gunzip /usr/share/wordlists/rockyou.txt.gz
+apt-get install -y firmware-ralink
