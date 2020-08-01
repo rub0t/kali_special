@@ -17,7 +17,6 @@ make
 make install
 cd ~
 apt-get -y install kali-tools-passwords
-apt-get -y install bettercap
 git clone https://github.com/hashcat/hashcat.git
 cd hashcat
 make
